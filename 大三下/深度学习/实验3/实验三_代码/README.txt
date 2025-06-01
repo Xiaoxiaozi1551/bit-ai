@@ -1,0 +1,2 @@
+Generator.pth和Conv_generator.pth是训练好的模型
+数据集删了，可以在mnist文件夹下放（）
